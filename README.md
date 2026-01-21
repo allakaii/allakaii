@@ -2,6 +2,60 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="34" height="34"/></h1>
 <h3 align="center">Computer science student, IT from Ukraine</h3>
 
+## 🧑‍💻 About Me
+
+I am an IT student at **Dr. Heuer Academy**, learning software development with a focus on web technologies.
+
+I am interested in building practical solutions, logic, algorithms, and a systematic approach to development.  
+I aim not only to write code, but to understand **how and why it works**.
+
+---
+
+## 🛠 Technologies & Tools
+
+### Languages & Databases
+- Python  
+- C#  
+- JavaScript  
+- HTML / CSS  
+- SQL (MySQL)
+
+### Technologies & Environment
+- ASP.NET MVC (learning & practice)  
+- Entity Framework Core (CRUD, migrations)  
+- Git / GitHub  
+- Linux (LPIC / LPI Linux Certificates Part 1)  
+- IT fundamentals & basic system administration
+
+### Tools
+- VS Code  
+- Visual Studio  
+- Figma  
+- Photoshop  
+
+---
+
+## 📂 Projects & Practice
+
+- Small console scripts (Python, C#)  
+- Educational **Tamagotchi** project  
+- **Kontoauszug parser** with transaction storage in a database  
+- Small layout / frontend projects  
+- Team project at the academy using multiple technologies  
+  (frontend + backend + database)
+
+---
+
+## 🎯 Interests
+
+- Web development  
+- Process automation  
+- Logic and algorithms  
+- System thinking  
+- Practical and maintainable solutions
+
+
+
 <!--
 **allakaii/allakaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
