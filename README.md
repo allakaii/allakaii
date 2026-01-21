@@ -69,6 +69,8 @@ I aim not only to write code, but to understand **how and why it works**.
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=59C358&width=435&lines=The+less+you+know%2C+;the+more+you+google.)](https://git.io/typing-svg)
+
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
