@@ -13,50 +13,73 @@ I aim not only to write code, but to understand **how and why it works**.
 
 ---
 
-<h3 align="center">🛠 Technologies & Tools</h3>
+<details>
+  <summary><b>🛠️Technologies & Tools</b></summary>
+  <br/>
+  
+  ### Languages & Databases
+  - Python  
+  - C#  
+  - JavaScript  
+  - HTML / CSS  
+  - SQL (MySQL)
+  
+  ### Technologies & Environment
+  - ASP.NET MVC (learning & practice)  
+  - Entity Framework Core (CRUD, migrations)  
+  - Git / GitHub  
+  - Linux (LPIC / LPI Linux Certificates Part 1)  
+  - IT fundamentals & basic system administration
+  
+  #### Tools
+  - VS Code  
+  - Visual Studio  
+  - Figma  
+  - Photoshop
+   
+</details>
 
-### Languages & Databases
-- Python  
-- C#  
-- JavaScript  
-- HTML / CSS  
-- SQL (MySQL)
-
-### Technologies & Environment
-- ASP.NET MVC (learning & practice)  
-- Entity Framework Core (CRUD, migrations)  
-- Git / GitHub  
-- Linux (LPIC / LPI Linux Certificates Part 1)  
-- IT fundamentals & basic system administration
-
-### Tools
-- VS Code  
-- Visual Studio  
-- Figma  
-- Photoshop  
+---
+<details>
+  <summary><b>📂 Projects & Practice</b></summary>
+  <br/>
+  
+  - Small console scripts (Python, C#)  
+  - Educational **Tamagotchi** project  
+  - **Kontoauszug parser** with transaction storage in a database  
+  - Small layout / frontend projects  
+  - Team project at the academy using multiple technologies  
+    (frontend + backend + database)
+  
+</details>
 
 ---
 
-<h3 align="center">📂 Projects & Practice</h3>
+<details>
+  <summary><b>🎯 Interests</b></summary>
+  <br/>
+  
+  - Web development  
+  - Process automation  
+  - Logic and algorithms  
+  - System thinking  
+  - Practical and maintainable solutions
 
-- Small console scripts (Python, C#)  
-- Educational **Tamagotchi** project  
-- **Kontoauszug parser** with transaction storage in a database  
-- Small layout / frontend projects  
-- Team project at the academy using multiple technologies  
-  (frontend + backend + database)
+</details>
 
 ---
 
-<h3 align="center">🎯 Interests</h3>
-
-- Web development  
-- Process automation  
-- Logic and algorithms  
-- System thinking  
-- Practical and maintainable solutions
-
-
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
 
 <!--
 **allakaii/allakaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
