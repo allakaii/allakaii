@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="34" height="34"/></h1>
 <h3 align="center">Computer science student, IT from Ukraine</h3>
 
-##<h3 align="center">🧑‍💻 About Me </h3>
+<h3 align="center">🧑‍💻 About Me </h3>
+---
 I am an IT student at **Dr. Heuer Academy**, learning software development.
 
 I am interested in building practical solutions, logic, algorithms, and a systematic approach to development.  
