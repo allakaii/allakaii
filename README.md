@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="34" height="34"/></h1>
 <h3 align="center">🇩🇪 Computer science student, IT from Ukraine 🇺🇦</h3>
 
+![snake gif](https://github.com/allakaii/allakaii/blob/output/github-snake-dark.svg)
+
 <h3 align="center">🧑‍💻 About Me </h3>
 
 I am an IT student at **Dr. Heuer Academy**, learning software development.
