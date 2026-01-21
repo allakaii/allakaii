@@ -68,8 +68,12 @@ I aim not only to write code, but to understand **how and why it works**.
 </details>
 
 ---
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=59C358&center=true&width=435&lines=The+less+you+know%2C+;the+more+you+google.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=59C358&width=435&lines=The+less+you+know%2C+;the+more+you+google.)](https://git.io/typing-svg)
+</div>
+
 
 ```
   ____                  ____                      
