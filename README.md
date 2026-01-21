@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Oleksii
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="34" height="34"/></h1>
-<h3 align="center">Computer science student, IT from Ukraine</h3>
+<h3 align="center">🇩🇪 Computer science student, IT from Ukraine 🇺🇦</h3>
 
 <h3 align="center">🧑‍💻 About Me </h3>
 
