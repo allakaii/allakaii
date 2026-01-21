@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT from Ukraine</h3>
 
 <h3 align="center">🧑‍💻 About Me </h3>
----
+
 I am an IT student at **Dr. Heuer Academy**, learning software development.
 
 I am interested in building practical solutions, logic, algorithms, and a systematic approach to development.  
@@ -11,7 +11,7 @@ I aim not only to write code, but to understand **how and why it works**.
 
 ---
 
-## 🛠 Technologies & Tools
+<h3 align="center">🛠 Technologies & Tools</h3>
 
 ### Languages & Databases
 - Python  
@@ -35,7 +35,7 @@ I aim not only to write code, but to understand **how and why it works**.
 
 ---
 
-## 📂 Projects & Practice
+<h3 align="center">📂 Projects & Practice</h3>
 
 - Small console scripts (Python, C#)  
 - Educational **Tamagotchi** project  
@@ -46,7 +46,7 @@ I aim not only to write code, but to understand **how and why it works**.
 
 ---
 
-## 🎯 Interests
+<h3 align="center">🎯 Interests</h3>
 
 - Web development  
 - Process automation  
