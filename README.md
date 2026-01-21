@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an IT student at **Dr. Heuer Academy**, learning software development with a focus on web technologies.
+I am an IT student at **Dr. Heuer Academy**, learning software development.
 
 I am interested in building practical solutions, logic, algorithms, and a systematic approach to development.  
 I aim not only to write code, but to understand **how and why it works**.
